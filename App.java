@@ -1,4 +1,4 @@
-package com.mavenpraject.one;
+// package com.mavenpraject.one;
 
 public class App {
   public static void main(String[] args) {
